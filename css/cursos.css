@@ -1,0 +1,11 @@
+#cursospage{
+    background-color: rgb(150, 144, 144);
+    height: 1000px;
+}
+
+#cursospage .titlePage{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+
+}
